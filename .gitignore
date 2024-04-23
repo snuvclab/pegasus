@@ -9,7 +9,7 @@
 *.pt
 *.ckpt
 *.pyc
-__pycache__/
+__pycache__/*
 data/
 code/flame/FLAME2020
 .vscode
