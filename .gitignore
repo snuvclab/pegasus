@@ -8,6 +8,7 @@
 *.pth
 *.pt
 *.ckpt
+*.pyc
 __pycache__/
 data/
 code/flame/FLAME2020

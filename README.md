@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>PEGASUS: Personalized Generative 3D Avatars with Composable Attributes
+<h1>PEGASUS: Personalized Generative 3D Avatars with Composable Attributes</h1>
 
 <div>
     <a href='https://hyunsoocha.github.io/' target='_blank'>Hyunsoo Cha</a>&emsp;
@@ -16,7 +16,7 @@
 <div>
 
 <a target="_blank" href="https://arxiv.org/abs/2402.10636">
-  <img src="https://img.shields.io/badge/arXiv-2311.05521-b31b1b.svg" alt="arXiv Paper"/>
+  <img src="https://img.shields.io/badge/arXiv-2402.10646-b31b1b.svg" alt="arXiv Paper"/>
 </a>
 </div>
 
