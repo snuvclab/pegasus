@@ -1,0 +1,16 @@
+*.tar
+*.npy
+*.npz
+*.jpg
+*.png
+*.pkl
+*.log
+*.pth
+*.pt
+*.ckpt
+*.pyc
+__pycache__/*
+data/
+code/
+preprocess/
+.vscode/
