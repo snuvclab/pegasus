@@ -24,7 +24,7 @@
 <h4>TL;DR</h4>
 <h5>PEGASUS builds a personalized generative 3D face avatar from monocular video sources.</h5>
 
-### [Paper](https://snuvclab.github.io/pegasus/) | [Project Page](https://arxiv.org/abs/2402.10636)
+### [Paper](https://arxiv.org/abs/2402.10636) | [Project Page](https://snuvclab.github.io/pegasus/)
 
 <br>
 <tr>
