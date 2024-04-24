@@ -16,10 +16,9 @@
 <div>
 
 <a target="_blank" href="https://arxiv.org/abs/2402.10636">
-  <img src="https://img.shields.io/badge/arXiv-2402.10646-b31b1b.svg" alt="arXiv Paper"/>
+  <img src="https://img.shields.io/badge/arXiv-2402.10636-b31b1b.svg" alt="arXiv Paper"/>
 </a>
 </div>
-
 
 <h4>TL;DR</h4>
 <h5>PEGASUS builds a personalized generative 3D face avatar from monocular video sources.</h5>
@@ -124,14 +123,12 @@ We plan to release the pretrained model soon.
 Codes are available only for non-commercial research purposes.
 
 ## Acknowledgement
-We sincerely thank the authors of
+Our project is built based on PointAvatar. We sincerely thank the authors of
 - [PointAvatar](https://github.com/zhengyuf/PointAvatar) 
 - [I M Avatar](https://github.com/zhengyuf/IMavatar) 
 - [Face Parsing](https://github.com/zllrunning/face-parsing.PyTorch) 
 - [DECA](https://github.com/yfeng95/DECA) 
 - [FLAME](https://github.com/soubhiksanyal/FLAME_PyTorch) 
-- [Grounded Segment Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) 
-
 for their amazing work and codes!
 
 ## Citation
