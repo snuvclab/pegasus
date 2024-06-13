@@ -135,10 +135,12 @@ for their amazing work and codes!
 If you find our code useful, please cite our paper:
 
 ```
-@inproceedings{cha2024pegasus,
-    author = {Cha, Hyunsoo and Kim, Byungjun and Joo, Hanbyul},
-    title = {PEGASUS: Personalized Generative 3D Avatars with Composable Attributes}, 
+@InProceedings{Cha_2024_CVPR,
+    author    = {Cha, Hyunsoo and Kim, Byungjun and Joo, Hanbyul},
+    title     = {PEGASUS: Personalized Generative 3D Avatars with Composable Attributes},
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-    year = {2024},
+    month     = {June},
+    year      = {2024},
+    pages     = {1072-1081}
 }
 ```
