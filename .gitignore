@@ -13,3 +13,4 @@ __pycache__/*
 data/
 code/flame/FLAME2020
 .vscode
+preprocess/Grounded-Segment-Anything/GroundingDINO/build/*
